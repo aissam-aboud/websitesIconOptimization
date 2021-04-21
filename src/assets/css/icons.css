@@ -1,0 +1,51 @@
+.icon {
+    background-image: url('./../image/icons.png');
+    background-repeat: no-repeat;
+    background-size: 12em 12em;
+    width: 4em;
+    height: 4em;
+    float: left;
+}
+.icon-phone{
+    background-position: 0em 0em;
+}
+.icon-location{
+    background-position: -4em 0em;
+}
+.icon-internet{ 
+    background-position: -8em 0em;
+}
+.icon-calendar{ 
+    background-position: 0em -4em;
+}
+.icon-person{   
+    background-position: -4em -4em;
+}
+.icon-play{ 
+    background-position: -8em -4em;
+}
+.icon-position{ 
+    background-position: 0em -8em;
+}
+.icon-chemistry{    
+    background-position: -4em -8em;
+}
+.icon-clock{    
+    background-position: -8em -8em;
+}
+
+.button{
+    float: right;
+    margin: 10px;
+    width: 140px;
+    height: 45px;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2.0px;
+    background-color: #fff;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);    
+    cursor: pointer;
+    font-family: "montserrat";
+}
